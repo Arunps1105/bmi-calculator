@@ -38,3 +38,6 @@ window.onload = function () {
     document.getElementById("result").innerText = saved;
   }
 };
+alert("JS is connected");
+
+
